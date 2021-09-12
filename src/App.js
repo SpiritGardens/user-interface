@@ -1,11 +1,10 @@
 import './App.css';
+import Auth from './views/Auth/Authentication';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-      </header>
+      <Auth />
     </div>
   );
 }
