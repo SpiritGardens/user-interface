@@ -6,6 +6,9 @@ const inventory = createSlice({
     reducers: {}
 }); 
 
-const {actions, reducer} = inventory;
-export const { } = actions;
+const {
+    // actions, 
+    reducer
+} = inventory;
+// export const { } = actions;
 export default reducer;
