@@ -1,0 +1,12 @@
+.text-input { 
+    width: 400px;
+    height: 30px;
+    box-shadow: inset 4px 4px 2px rgb(26, 9, 32), inset -2px -2px 2px rgb(157, 40, 192);
+    border-radius: 30px;
+    background-color: rgb(44, 5, 54);
+    border: rgb(44, 5, 54);
+    outline: none;
+    color: rgb(208, 200, 209);
+    padding: 2px 20px;
+    margin-left: 1em;
+} 
